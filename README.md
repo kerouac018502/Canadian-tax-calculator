@@ -25,7 +25,7 @@ CalculateTaxes macro delivers easily accessible data that anyone who tinkers wit
 
 **How To Use**
 
-The Wealthsimple 2021 Free Income Tax Calculator supports the following web page input fields that are mapped to a corresponding LibreOffice Calc named ranges:
+The Wealthsimple 2021 Free Income Tax Calculator supports the following web page input fields that are mapped to a corresponding LibreOffice Calc named range:
 * input field employmentIncome -> LibreOffice Calc named range IN_employmentIncome
 * selfEmploymentIncome -> IN_selfEmploymentIncome
 * rrspDeduction -> N_rrspDeduction
@@ -37,7 +37,7 @@ The Wealthsimple 2021 Free Income Tax Calculator supports the following web page
 
 If the named input range does not exist in the Model spreadsheet file then a value of 0 is supplied to the Wealthsimple 2021 Free Income Tax Calculator for that field.
 
-The Wealthsimple 2021 Free Income Tax Calculator supports the following web page output fields are mapped to a corresponding LibreOffice Calc named ranges:
+The Wealthsimple 2021 Free Income Tax Calculator supports the following web page output fields that are mapped to a corresponding LibreOffice Calc named range:
 * totalIncome -> OUT_totalIncome
 * totalTax -> OUT_totalTax
 * afterTaxIncome -> OUT_afterTaxIncome
