@@ -32,7 +32,7 @@ The model must have the LibreOffice Calc named ranges listed below. A current li
 The Wealthsimple 2021 Free Income Tax Calculator supports the following web page input fields that are mapped to a corresponding LibreOffice Calc named range:
 * input field employmentIncome -> LibreOffice Calc named range IN_employmentIncome
 * selfEmploymentIncome -> IN_selfEmploymentIncome
-* rrspDeduction -> N_rrspDeduction
+* rrspDeduction -> IN_rrspDeduction
 * capitalGains -> IN_capitalGains
 * eligibleDividends -> IN_eligibleDividends
 * ineligibleDividends -> IN_ineligibleDividends
