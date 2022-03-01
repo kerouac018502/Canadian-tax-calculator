@@ -1,7 +1,7 @@
 # Canadian-tax-calculator
 LibreOffice Calc integration to Wealthsimple 2021 Free Income Tax Calculator
 
-The Tools->Macros->CalculateTaxes function in the Sample.ods spreadsheet file is embedded python code that integrates to the browser based Wealthsimple 2021 free income tax calculator. It quickly estimates your taxes, provides visibility of your tax bracket, marginal tax rates, and average tax rates. It repeats the tax calculation for all supported Free Income Tax Calculator input fields, once for each row, and records the result into a set of output rows in the Model spreadsheet.
+The Tools->Macros->CalculateTaxes function in the Sample.ods spreadsheet file is embedded python code that integrates to the browser based Wealthsimple 2021 free income tax calculator. It quickly estimates your taxes, provides visibility of your tax bracket, marginal tax rates, and average tax rates. It repeats the tax calculation for all supported Free Income Tax Calculator input fields, once for each input row, and records the result into the corresponding output rows in the Model spreadsheet.
 
 This software is meant to help understand wealth accumulation and decumulation strategies and quickly estimate related tax implications.
 
