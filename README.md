@@ -17,7 +17,7 @@ CalculateTaxes macro delivers easily accessible data that anyone who tinkers wit
 
 <ul>
    <li>[LibreOffice 7.2.5.2] (https://www.libreoffice.org/download/download/)</li>
-   <li>[Python] (https://www.python.org/downloads/release/python-3810/)</li>
+   <li>[Python 3.8.10] (https://www.python.org/downloads/release/python-3810/)</li>
    <li>[ChromeDriver 98.0.4758.102] (https://chromedriver.chromium.org/downloads)</li>
    <li>[Chromium based browser] (https://brave.com/download/)</li>
    <li>[Python site-packages] certifi, selenium, urllib3 installed in C:\Program Files\LibreOffice\program\python-core-3.8.10\lib\site-packages</li>
