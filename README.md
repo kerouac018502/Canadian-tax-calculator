@@ -60,6 +60,6 @@ The Sample.ods spreadsheet is structured to help understand decumulation strateg
 
 IMPORTANT NOTE (TODO): The capital gains model is a work in progress. The tax calculations are correct but understanding how to model capital gains from gross proceeds and the effect on inflation adjusted income is not well thought out.
 
-Canadian-tax-calculator is free software: you can redistribute and/or modify it under the terms of the MIT License.
+**Canadian-tax-calculator is free software: you can redistribute and/or modify it under the terms of the MIT License.**
 
 Canadian-tax-calculator is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program.  If not, see https://www.gnu.org/licenses/.
