@@ -21,7 +21,6 @@ CalculateTaxes macro delivers easily accessible data that anyone who tinkers wit
    <li>[ChromeDriver 98.0.4758.102] (https://chromedriver.chromium.org/downloads)</li>
    <li>[Chromium based browser] (https://brave.com/download/)</li>
    <li>[Python site-packages] certifi, selenium, urllib3 installed in C:\Program Files\LibreOffice\program\python-core-3.8.10\lib\site-packages</li>
-  <li>
 </ul>
 
 **How To Use**
