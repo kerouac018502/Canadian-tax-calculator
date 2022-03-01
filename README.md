@@ -19,11 +19,14 @@ CalculateTaxes macro delivers easily accessible data that anyone who tinkers wit
    <li>[LibreOffice 7.2.5.2] (https://www.libreoffice.org/download/download/)</li>
    <li>[Python] (https://www.python.org/downloads/release/python-3810/)</li>
    <li>[ChromeDriver 98.0.4758.102] (https://chromedriver.chromium.org/downloads)</li>
+   <li>[Chromium based browser] (https://brave.com/download/)</li>
    <li>[Python site-packages] certifi, selenium, urllib3 installed in C:\Program Files\LibreOffice\program\python-core-3.8.10\lib\site-packages</li>
   <li>
 </ul>
 
 **How To Use**
+
+The spreadsheet must have a sheet named "Model" and a sheet named "Configuration". The "Configuration" spreadsheet must have the "driver", "browser", and "url" fields properly configured. Only chromium-based browsers will work. It has been tested using Brave wich is based on Chrome version 98. A chromedriver that matches the chromium version must be installed. Apparently any chromium based browser will work as expected. The Wealthsimple url is based on province.
 
 The Wealthsimple 2021 Free Income Tax Calculator supports the following web page input fields that are mapped to a corresponding LibreOffice Calc named range:
 * input field employmentIncome -> LibreOffice Calc named range IN_employmentIncome
