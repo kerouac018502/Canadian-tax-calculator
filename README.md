@@ -25,7 +25,7 @@ CalculateTaxes macro delivers easily accessible data that anyone who tinkers wit
 
 **How To Use**
 
-The spreadsheet must have a sheet named "Model" and a sheet named "Configuration". The "Configuration" spreadsheet must have the "driver", "browser", and "url" fields properly configured. Only chromium-based browsers will work. It has been tested using Brave wich is based on Chrome version 98. A chromedriver that matches the chromium version must be installed. Apparently any chromium based browser will work as expected. The Wealthsimple url is based on province.
+The spreadsheet must have a sheet named "Model" and a sheet named "Configuration". The "Configuration" spreadsheet must have the "driver", "browser", and "url" fields properly configured. Only chromium-based browsers will work. It has been tested using Brave which is based on Chrome version 98. A chromedriver that matches the chromium version must be installed. Apparently any chromium based browser will work as expected. The Wealthsimple url is based on province.
 
 The model must have the LibreOffice Calc named ranges listed below. A current limitation is that the Model must have a named range for otherIncome. Each row of the named input ranges is supplied to Wealthsimple 2021 Free Income Tax Calculator one row at a time and the corresponding results returned to the same row for the named output ranges.
 
