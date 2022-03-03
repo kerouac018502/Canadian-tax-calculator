@@ -56,6 +56,6 @@ LibreOffice must be installed to make use of the included Sample.ods spreadsheet
 
 The Sample.ods spreadsheet is structured to help understand decumulation strategies. It can be used to help understand situations like how to empty an RRSP before 70? What are the tax implications? How do I decumulate all investments and achieve a consistent inflation adjusted income for a lifetime, and then expire without a penny remaining? Values in the Sample spreadsheet have been floated in r/fican and I wanted to see what is required to get a reasonably complete answer ... or at least have a tool that might lead to good answers. The Sample is an excellent demonstration of Wealthsimple 2021 Free Income Tax Calculator integration but the user has to do the heavy lifting to understand results and how they might be used for accumulation and decumulation planning.
 
-![Figure 3: A consistent inflation adjusted lifetime income, and then expire without a penny example](Documentation/SampleSpreadsheet.png?raw=True "Figure 3: A consistent inflation adjusted lifetime income, and then expire without a penny example")
+![Figure 3: A consistent inflation adjusted lifetime income, and then expire without a penny example](Documentation/Sample-SmoothRRIFWithdrawal.png?raw=True "Figure 3: A consistent inflation adjusted lifetime income, and then expire without a penny example")
 
 **Canadian-tax-calculator is free software: you can redistribute and/or modify it under the terms of the MIT License.**
